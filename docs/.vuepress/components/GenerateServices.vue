@@ -49,6 +49,10 @@ export default {
           link: 'http://cubetutor.com',
         },
         {
+          name: 'Fateseal'
+          link: 'https://www.fateseal.com'
+        },
+        {
           name: 'Dr4ft',
           image: 'dr4ft.png',
           link: 'https://dr4ft.info',
